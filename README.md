@@ -1,6 +1,6 @@
 # npmtest-cordova-plugin-imagepicker
 
-#### test coverage for  [cordova-plugin-imagepicker (v1.3.0)](https://github.com/jeduan/cordova-plugin-imagepicker#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-imagepicker.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-imagepicker) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-imagepicker.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-imagepicker)
+#### basic test coverage for  [cordova-plugin-imagepicker (v1.3.0)](https://github.com/jeduan/cordova-plugin-imagepicker#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-imagepicker.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-imagepicker) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-imagepicker.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-imagepicker)
 
 #### This plugin allows selection of multiple images from the camera roll / gallery in a phonegap app
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-cordova-plugin-imagepicker/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-cordova-plugin-imagepicker/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-cordova-plugin-imagepicker/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-cordova-plugin-imagepicker/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova-plugin-imagepicker/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova-plugin-imagepicker/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-cordova-plugin-imagepicker/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-cordova-plugin-imagepicker/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova-plugin-imagepicker/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova-plugin-imagepicker/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-cordova-plugin-imagepicker/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-cordova-plugin-imagepicker/build/coverage.html/index.html)
 
@@ -76,7 +76,8 @@
         "url": "git+https://github.com/jeduan/cordova-plugin-imagepicker.git"
     },
     "scripts": {},
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "bin": {}
 }
 ```
 
